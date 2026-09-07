@@ -1,3 +1,5 @@
+👋 Hi, I’m [迟迟](https://jianpeng-chen.github.io/chi3316.github.io/).
+
 <a href="https://jianpeng-chen.github.io/chi3316.github.io/">
   <img src="./assets/profile-banner.png" alt="CHICHI — Stay curious. Build real. 像素夕阳山谷中的 AI 应用开发者。" width="100%" />
 </a>
